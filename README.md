@@ -1,2 +1,2 @@
 # use-Nodemailer
-How to use nodemailer in ethereal, in master branch
+How to use nodemailer in ethereal,and code are in master branch
